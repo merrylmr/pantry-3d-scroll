@@ -5,6 +5,8 @@ Scrolling tells a small shopping story: each product comes on stage, gets scanne
 "Purchased" and flies into the basket, a till receipt prints line by line, and at checkout all
 four products drop into a 3D basket.
 
+**Live demo:** https://merrylmr.github.io/pantry-3d-scroll/
+
 ![Scanning a product](docs/scan.jpg)
 ![Checkout](docs/checkout.jpg)
 
